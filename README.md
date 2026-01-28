@@ -20,3 +20,12 @@ Most repositories here are tutorials in French, covering:
 .NET (C#, VB.NET) • Delphi • Free Pascal/Lazarus • Go • Rust
 REST APIs • Entity Framework • JWT • Docker • Kubernetes
 MariaDB • PostgreSQL • SQL Server • MongoDB • Redis
+
+---
+### 🔍 Open to work
+
+Currently looking for a **full remote position** as a senior software developer.
+
+📧 ndxdev@gmail.com | 🌐 [deoux-pro.com](https://deoux-pro.com)
+
+---
