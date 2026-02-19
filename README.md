@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/github-profile.gif" alt="Profile Banner" />
+</p>
+
 ## What I do
 
 - **REST APIs and back-end** (.NET, C#, VB.NET)
@@ -29,3 +33,4 @@ Currently looking for a **full remote position** as a senior software developer.
 📧 ndxdev@gmail.com | 🌐 [deoux-pro.com](https://deoux-pro.com)
 
 ---
+
