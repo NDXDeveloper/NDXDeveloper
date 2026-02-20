@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="./assets/github-profile.gif" alt="Profile Banner" />
+  <a href="https://github.com/NDXDeveloper?tab=repositories">
+    <img src="./assets/github-profile.gif" alt="Profile Banner" />
+  </a>
 </p>
 
 ## What I do
